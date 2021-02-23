@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/huangh32/reactproject_YelpAPI/static/css/main.50696d0d.chunk.css",
+    "main.js": "/huangh32/reactproject_YelpAPI/static/js/main.ccefe76d.chunk.js",
+    "main.js.map": "/huangh32/reactproject_YelpAPI/static/js/main.ccefe76d.chunk.js.map",
+    "runtime-main.js": "/huangh32/reactproject_YelpAPI/static/js/runtime-main.e0dd68c3.js",
+    "runtime-main.js.map": "/huangh32/reactproject_YelpAPI/static/js/runtime-main.e0dd68c3.js.map",
+    "static/js/2.6c73c054.chunk.js": "/huangh32/reactproject_YelpAPI/static/js/2.6c73c054.chunk.js",
+    "static/js/2.6c73c054.chunk.js.map": "/huangh32/reactproject_YelpAPI/static/js/2.6c73c054.chunk.js.map",
+    "static/js/3.5be33b26.chunk.js": "/huangh32/reactproject_YelpAPI/static/js/3.5be33b26.chunk.js",
+    "static/js/3.5be33b26.chunk.js.map": "/huangh32/reactproject_YelpAPI/static/js/3.5be33b26.chunk.js.map",
+    "index.html": "/huangh32/reactproject_YelpAPI/index.html",
+    "static/css/main.50696d0d.chunk.css.map": "/huangh32/reactproject_YelpAPI/static/css/main.50696d0d.chunk.css.map",
+    "static/js/2.6c73c054.chunk.js.LICENSE.txt": "/huangh32/reactproject_YelpAPI/static/js/2.6c73c054.chunk.js.LICENSE.txt",
+    "static/media/SearchBar.css": "/huangh32/reactproject_YelpAPI/static/media/background_search_mobile.9e607f23.webp",
+    "static/media/logo.6ce24c58.svg": "/huangh32/reactproject_YelpAPI/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e0dd68c3.js",
+    "static/js/2.6c73c054.chunk.js",
+    "static/css/main.50696d0d.chunk.css",
+    "static/js/main.ccefe76d.chunk.js"
+  ]
+}
